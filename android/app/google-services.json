@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917197248138",
+    "project_id": "platinum-linker-292520",
+    "storage_bucket": "platinum-linker-292520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917197248138:android:b3676d63d8593c09857f73",
+        "android_client_info": {
+          "package_name": "com.example.flutter_complete_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917197248138-h7juftpghh5hb3363mkner2n9lki31a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOYyoeAJcnjJM4faSYuHH3S85WyF5dL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917197248138-h7juftpghh5hb3363mkner2n9lki31a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
